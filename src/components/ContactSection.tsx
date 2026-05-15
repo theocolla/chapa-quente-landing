@@ -29,7 +29,7 @@ const ContactSection = () => {
 
         <div className="text-center">
           <a
-            href="https://wa.me/5599999999999"
+            href="https://wa.me/11964785127"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-primary text-primary-foreground px-10 py-4 rounded-xl text-lg font-bold hover:brightness-110 transition-all animate-pulse-glow"
