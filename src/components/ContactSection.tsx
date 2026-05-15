@@ -23,7 +23,7 @@ const ContactSection = () => {
           <div className="bg-card border border-border rounded-xl p-8 text-center hover-lift">
             <Phone className="w-8 h-8 text-primary mx-auto mb-4" />
             <h4 className="font-display text-xl text-foreground mb-2">TELEFONE</h4>
-            <p className="text-muted-foreground text-sm">(55) 99999-9999</p>
+            <p className="text-muted-foreground text-sm">11 964785127</p>
           </div>
         </div>
 
