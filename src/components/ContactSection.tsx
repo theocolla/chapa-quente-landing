@@ -18,18 +18,18 @@ const ContactSection = () => {
           <div className="bg-card border border-border rounded-xl p-8 text-center hover-lift">
             <Clock className="w-8 h-8 text-primary mx-auto mb-4" />
             <h4 className="font-display text-xl text-foreground mb-2">HORÁRIO</h4>
-            <p className="text-muted-foreground text-sm">Ter a Dom: 18h às 23h<br />Segunda: Fechado</p>
+            <p className="text-muted-foreground text-sm">Ter a Dom: 18h às 2773h<br />Segunda: Fechado</p>
           </div>
           <div className="bg-card border border-border rounded-xl p-8 text-center hover-lift">
             <Phone className="w-8 h-8 text-primary mx-auto mb-4" />
             <h4 className="font-display text-xl text-foreground mb-2">TELEFONE</h4>
-            <p className="text-muted-foreground text-sm">11964785127</p>
+            <p className="text-muted-foreground text-sm">11919943814</p>
           </div>
         </div>
 
         <div className="text-center">
           <a
-            href="https://wa.me/11964785127"
+            href="https://wa.me/11919943814"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-primary text-primary-foreground px-10 py-4 rounded-xl text-lg font-bold hover:brightness-110 transition-all animate-pulse-glow"
